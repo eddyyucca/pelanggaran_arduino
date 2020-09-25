@@ -1,0 +1,33 @@
+.bg-custom{
+	background: rgb(53,16,108);
+	background: linear-gradient(167deg, rgba(53,16,108,1) 7%, rgba(97,76,150,1) 38%, rgba(194,176,210,1) 95%);
+}
+.btn-custom{
+	background-color: #e4d5f2;;
+	color: #000000;
+}
+.btn-custom:hover{
+	background-color: #341f54;
+	color: #ffffff;
+}
+.con-custom{
+	background-color: #ffffff; 
+	border-radius: 25px; 
+	padding: 25px;"
+}
+.footer-custom{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background: rgb(194,176,210);
+	background: linear-gradient(90deg, rgba(194,176,210,1) 7%, rgba(97,76,150,1) 38%, rgba(53,16,108,1) 95%);
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+.teks-custom{
+	color: lightgray;
+	font-family: monospace;
+	letter-spacing: 2px;
+}
